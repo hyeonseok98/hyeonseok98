@@ -7,15 +7,15 @@
 
 
 
-I'm thinking about <strong>deep</strong> and <strong>efficient code</strong>💻
+I'm thinking about <strong>Deep</strong> and <strong>Efficient Code</strong>💻
 
-and also interested in <strong>interaction design</strong>🎨
+and also interested in <strong>Interaction Design</strong>🎨
 
 My goal is to give good influence to society✨
 </div>
 
 <br/><br/>
-<h4 align="left">Languages and Tools:</h4>
++ <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
@@ -28,8 +28,10 @@ My goal is to give good influence to society✨
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
-</p>
+</p><br/><br/>
 
++ <h4 align="left">Projects:</h4>
+<pre> 2024.1~3 | Frontend | 건강한 경로추천 서비스 "VitalRoutes"</pre>
 
 
 
