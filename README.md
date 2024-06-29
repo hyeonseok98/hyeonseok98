@@ -33,6 +33,8 @@ My goal is to give good influence to society✨
 + <h4 align="left">Projects:</h4>
 <pre> 2024.1~3 | Frontend | 건강한 경로추천 서비스 "VitalRoutes"</pre>
 
+<h2>Github Stats</h2>
 
+![Jamong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseok98&theme=dark&show_icons=true)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
