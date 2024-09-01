@@ -31,7 +31,8 @@ My goal is to give good influence to society✨
 </p><br/><br/>
 
 + <h4 align="left">Projects:</h4>
-<pre> 2024.1~3 | Frontend | 건강한 경로추천 서비스 "VitalRoutes"</pre>
+<pre> 2024.07 ~ 08 | Frontend | 해외 여행지 정보 및 여행일정 관리 서비스 "Travel Story"</pre>
+<pre> 2024.01 ~ 03 | Frontend | 건강한 경로추천 서비스 "Vital Routes"</pre>
 
 <h2>Github Stats</h2>
 
