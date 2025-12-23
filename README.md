@@ -5,13 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Thanks%2C+for+visting.+)](https://git.io/typing-svg)
 
+사용자가 겪는 작은 불편에서 문제를 정의합니다.
 
+코드의 구조와 화면의 흐름을 함께 고민하며,  
 
-I'm thinking about <strong>Deep</strong> and <strong>Efficient Code</strong>💻
-
-and also interested in <strong>Interaction Design</strong>🎨
-
-My goal is to give good influence to society✨
+**의미 있는 인터랙션을 통해 오래 쓰일 수 있는 서비스를 만드는 데 관심이 있습니다.** ✨
 </div>
 
 <br/><br/>
@@ -30,9 +28,14 @@ My goal is to give good influence to society✨
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
 </p><br/><br/>
 
-+ <h4 align="left">Projects:</h4>
-<pre> 2024.07 ~ 08 | Frontend | 해외 여행지 정보 및 여행일정 관리 서비스 "Travel Story"</pre>
-<pre> 2024.01 ~ 03 | Frontend | 건강한 경로추천 서비스 "Vital Routes"</pre>
+<h4 align="left">Projects:</h4>
+
+<pre>2025.12 | Frontend | 치지직컵 멀티뷰·데이터 시각화 플랫폼 "ChzzViewer"</pre>
+<pre>2025.08 | Frontend | 차지직 대회 기록·통계 서비스 "JND-LOG"</pre>
+<pre>2024.11 ~ 25.04 | Frontend | 문화 콘텐츠 아카이브 플랫폼 "Hobiday"</pre>
+<pre>2024.07 ~ 08  | Frontend | 해외 여행지 정보 및 여행일정 관리 서비스 "Travel Story"</pre>
+<pre>2024.01 ~ 03  | Frontend | 건강한 산책 경로추천 서비스 "Vital Routes"</pre>
+
 
 <h2>Github Stats</h2>
 
